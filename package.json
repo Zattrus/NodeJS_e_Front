@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_e_front",
+  "version": "1.0.0",
+  "description": "Nesta etapa estarei integrando o fornt end junto com o back end com a ajuda do Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zattrus/NodeJS_e_Front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zattrus/NodeJS_e_Front/issues"
+  },
+  "homepage": "https://github.com/Zattrus/NodeJS_e_Front#readme"
+}
